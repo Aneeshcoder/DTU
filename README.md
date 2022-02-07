@@ -21,7 +21,7 @@ Semester II (SGPA: 9.8):
 6. FEC32 - Logical Reasoning 
 
 </br></br>
-Semester III (SGPA: ):
+Semester III (SGPA: 9.81):
 1. CS251 - Data Structures 
 2. MC201 - Discrete Mathematics
 3. MC203 - Mathematics III
