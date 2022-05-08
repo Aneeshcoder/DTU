@@ -28,3 +28,12 @@ Semester III (SGPA: 9.81):
 4. MC205 - Probability and Statistics
 5. MC207 - Engineering Analysis and Design (Differential Equations)
 6. FEC37 - French
+
+</br></br>
+Semester IV (SGPA: ):
+1. CS262 - Algorithm Design and Analysis
+2. MC202 - Real Analysis
+3. MC204 - Scientific Computing
+4. MC206 - Computer Organization and Architecture
+5. MC208 - Linear Algebra
+6. FEC45 - Engineering Exploration
