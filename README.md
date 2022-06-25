@@ -21,7 +21,7 @@ Semester II (SGPA: 9.8):
 6. FEC32 - Logical Reasoning 
 
 </br></br>
-Semester III (SGPA: 9.81):
+Semester III (SGPA: 9.82):
 1. CS251 - Data Structures 
 2. MC201 - Discrete Mathematics
 3. MC203 - Mathematics III
@@ -30,7 +30,7 @@ Semester III (SGPA: 9.81):
 6. FEC37 - French
 
 </br></br>
-Semester IV (SGPA: ):
+Semester IV (SGPA: 9.82):
 1. CS262 - Algorithm Design and Analysis
 2. MC202 - Real Analysis
 3. MC204 - Scientific Computing
