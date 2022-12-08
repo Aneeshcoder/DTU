@@ -37,3 +37,12 @@ Semester IV (SGPA: 9.82):
 4. MC206 - Computer Organization and Architecture
 5. MC208 - Linear Algebra
 6. FEC45 - Engineering Exploration
+
+</br></br>
+Semester V (SGPA: ):
+1. MC301 - Operating Systems
+2. MC303 - Stochastic Processes
+3. MC305 - Operation Research
+4. MC315 - Modern Algebra
+5. MC317 - Numerical Methods for ODE
+6. MG301 - Fundamentals of Management 
