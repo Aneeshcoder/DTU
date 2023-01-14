@@ -46,3 +46,14 @@ Semester V (SGPA: ):
 4. MC315 - Modern Algebra
 5. MC317 - Numerical Methods for ODE
 6. MG301 - Fundamentals of Management 
+
+</br></br>
+Semester VI (SGPA: ):
+1. MC302 - Database Management Systems
+2. MC304 - Theory of Computation
+3. MC306 - Financial Engineering
+4. MC312 - Artificial Intelligence
+5. MC418 - Optimization Techniques
+6. HU302 - Engineering Economics
+7. MOOC302 - 
+8. MOOC304 - 
