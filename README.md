@@ -33,7 +33,7 @@ Semester III (SGPA: 9.82):
 Semester IV (SGPA: 9.82):
 1. CS262 - Algorithm Design and Analysis
 2. MC202 - Real Analysis
-3. MC204 - Scientific Computing
+3. MC204 - Scientific Computing (Numerical Methods)
 4. MC206 - Computer Organization and Architecture
 5. MC208 - Linear Algebra
 6. FEC45 - Engineering Exploration
