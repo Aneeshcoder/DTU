@@ -1,7 +1,8 @@
 # DTU
 **Aneesh Panchal</br>
 2K20/A6/56</br>
-2K20/MC/21</br></br>**
+2K20/MC/21</br>
+CGPA: 9.739</br>**
 Contains all the Projects, Lab Programs and Lab Files created during my BTech Mathematics and Computing (MCE) at Delhi Technological University (DTU)</br></br>
 Semester I (SGPA: 9.5):
 1. MA101 - Mathematics I 
