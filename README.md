@@ -50,7 +50,7 @@ Semester V (SGPA: 9.87):
 7. MS399 - Community Engagement
 
 </br></br>
-Semester VI (SGPA: ):
+Semester VI (SGPA: 9.85):
 1. MC302 - Database Management Systems
 2. MC304 - Theory of Computation
 3. MC306 - Financial Engineering
