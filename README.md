@@ -2,6 +2,9 @@
 **Aneesh Panchal</br>
 2K20/A6/56</br>
 2K20/MC/21</br></br>**
+B.Tech Mathematics and Computing</br>
+Department of Applied Mathematics</br>
+Delhi Technological University (DTU), Delhi, India</br></br>
 Contains all the Projects, Lab Programs and Lab Files created during my BTech Mathematics and Computing (MCE) at Delhi Technological University (DTU)</br></br>
 Semester I (SGPA: 9.5):
 1. MA101 - Mathematics I 
