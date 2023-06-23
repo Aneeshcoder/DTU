@@ -56,6 +56,6 @@ Semester VI (SGPA: 9.85):
 3. MC306 - Financial Engineering
 4. MC312 - Artificial Intelligence
 5. MC418 - Optimization Techniques
-6. HU302 - Engineering Economics
+6. HU302a - Engineering Economics
 7. MOOC302 - Practical Time Series Analysis (The State University of New York)
 8. MOOC304 - Using Python to Interact with Operating System (Google)
