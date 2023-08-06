@@ -59,3 +59,14 @@ Semester VI (SGPA: 9.85):
 6. HU302a - Engineering Economics
 7. MOOC302 - Practical Time Series Analysis (The State University of New York)
 8. MOOC304 - Using Python to Interact with Operating System (Google)
+
+</br></br>
+Semester VII (SGPA: ):
+1. MC401 - B.Tech Project-I
+2. MC403 - Training Seminar
+3. MC405 - Graph Theory
+4. MC407 - Cryptography and Network Security
+5. MC409 - Mathematical Modeling and Simulation
+6. MC419 - Machine Learning
+7. MC307 - Object Oriented Programming
+8. CH321 - Numerical Methods in Chemical Engineering
