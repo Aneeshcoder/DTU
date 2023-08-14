@@ -66,7 +66,6 @@ Semester VII (SGPA: ):
 2. MC403 - Training Seminar
 3. MC405 - Graph Theory
 4. MC407 - Cryptography and Network Security
-5. MC409 - Mathematical Modeling and Simulation
-6. MC419 - Machine Learning
-7. MC307 - Object Oriented Programming
-8. CH321 - Numerical Methods in Chemical Engineering
+5. MC419 - Machine Learning
+6. MC307 - Object Oriented Programming
+7. CH321 - Numerical Methods in Chemical Engineering
