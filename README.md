@@ -68,4 +68,6 @@ Semester VII (SGPA: ):
 4. MC407 - Cryptography and Network Security
 5. MC419 - Machine Learning
 6. MC307 - Object Oriented Programming
-7. CH321 - Numerical Methods in Chemical Engineering
+7. EN301 - Waste Water Engineering: Design and Applications
+8. MOOC401 -
+9. MOOC403 - 
