@@ -71,3 +71,7 @@ Semester VII (SGPA: ):
 7. EN301 - Waste Water Engineering: Design and Applications
 8. MOOC401 - Financial Markets
 9. MOOC403 - The Bits and Bytes of Computer Networking
+
+</br></br>
+Semester VIII (SGPA: ):
+1. MC402 - B.Tech Project-II
