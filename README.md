@@ -61,7 +61,7 @@ Semester VI (SGPA: 9.85):
 8. MOOC304 - Using Python to Interact with Operating System (Google)
 
 </br></br>
-Semester VII (SGPA: ):
+Semester VII (SGPA: 9.73):
 1. MC401 - B.Tech Project-I
 2. MC403 - Training Seminar
 3. MC405 - Graph Theory
@@ -73,5 +73,5 @@ Semester VII (SGPA: ):
 9. MOOC403 - The Bits and Bytes of Computer Networking
 
 </br></br>
-Semester VIII (SGPA: ):
+Semester VIII (SGPA: 9.00):
 1. MC402 - B.Tech Project-II
